@@ -1,2 +1,2 @@
 # 2015_SET
- ic contest
+ IC contest
